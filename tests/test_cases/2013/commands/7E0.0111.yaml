@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     TP: 1.96078
   response: '7E803411105'
+- expected_values:
+    TP: 7.84314
+  response: '7E803411114'
+- expected_values:
+    TP: 13.72549
+  response: '7E803411123'
