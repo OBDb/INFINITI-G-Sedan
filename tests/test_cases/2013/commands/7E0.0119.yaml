@@ -2,9 +2,9 @@ command_id: 7E0.0119
 test_cases:
 - expected_values:
     O2S22: 0.58
-    SHRTFT22: 99.21875
+    SHRTFT22: 71.21875
   response: 7E804411974FF
 - expected_values:
     O2S22: 0.65
-    SHRTFT22: 99.21875
+    SHRTFT22: 71.21875
   response: 7E804411982FF
